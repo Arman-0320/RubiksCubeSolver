@@ -1,5 +1,5 @@
 //
-// Created by Lakshya Mittal on 17-02-2022.
+// Created by Arman Atibudhi on 24-03-2023.
 //
 
 #ifndef RUBIKS_CUBE_SOLVER_PERMUTATIONINDEXER_H
